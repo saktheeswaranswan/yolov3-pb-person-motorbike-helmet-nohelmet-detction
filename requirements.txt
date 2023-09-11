@@ -72,7 +72,7 @@ reportlab==3.4.0
 requests==2.18.4
 requests-unixsocket==0.1.5
 scikit-learn==0.21.2
-scipy==1.1.0
+scipy==1.10.0
 selenium==3.141.0
 Send2Trash==1.5.0
 six==1.12.0
